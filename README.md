@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://i.postimg.cc/3N0LR7TP/Logopit-1748451120666.jpg" alt="ZynQR Logo" width="100%" height="170" style="   object-fit: cover;">
+    <img src="https://i.postimg.cc/3N0LR7TP/Logopit-1748451120666.jpg" alt="ZynQR Logo" width="100%" height="200" style="   object-fit: cover;">
 </p>
 
 <p align="center">
