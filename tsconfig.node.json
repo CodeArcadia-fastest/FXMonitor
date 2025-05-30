@@ -16,7 +16,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     
-    /* Особые настройки для Vite */
+    /* Особые настройки для Vite  */
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true
