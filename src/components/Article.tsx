@@ -8,7 +8,7 @@ interface CurrencyHistoryPoint {
   date: string;
   rate: number;
 }
-
+ 
 const API_KEY = '2cd83da9d2987ab6744cd744';
 const API_BASE = `https://v6.exchangerate-api.com/v6/${API_KEY}`;
 
