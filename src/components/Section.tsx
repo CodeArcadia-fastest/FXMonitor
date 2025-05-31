@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+ import React, { useState, useEffect } from 'react';
 import { FaBolt, FaCalculator, FaChartBar, FaDollarSign, FaArrowRight } from 'react-icons/fa';
 
 const Section = () => {
