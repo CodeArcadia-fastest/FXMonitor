@@ -12,7 +12,7 @@ const Header = () => {
 
   return (
     <header className="relative bg-gray-900 overflow-hidden pt-24 pb-16 md:pt-32 md:pb-24">
-      {/* Background elements */}
+      {/* Background elements */} 
       <div className="absolute inset-0 opacity-20">
         {/* Currency rate lines animation */}
         <div className="absolute inset-0 overflow-hidden">

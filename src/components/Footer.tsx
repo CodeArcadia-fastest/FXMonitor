@@ -3,7 +3,7 @@ import { FaGithub, FaInstagram, FaTelegram, FaLinkedin, FaTwitter } from 'react-
 import { HiOutlineMail, HiOutlineHeart } from 'react-icons/hi';
 import { FiSend } from 'react-icons/fi';
 
-const Footer = () => {
+const Footer = () => { 
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);

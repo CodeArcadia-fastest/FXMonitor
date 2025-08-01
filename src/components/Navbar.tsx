@@ -7,7 +7,7 @@ const Navbar = () => {
   const [languageOpen, setLanguageOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-
+ 
   const languages = [
     { code: 'rus', name: 'Русский' },
     { code: 'eng', name: 'English' },
