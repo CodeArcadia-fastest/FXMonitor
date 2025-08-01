@@ -28,6 +28,6 @@ export default {
         pulseGold: 'pulseGold 2s infinite',
       },
     },
-  },
+  }, 
   plugins: [],
 }
